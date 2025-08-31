@@ -30,7 +30,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    git clone https://github.com/m/spotify-clone.git
     ```
 2. Navigate to the project directory:
     ```sh
